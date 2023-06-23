@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokacija": "Lisca",
+        "IP": "44.150.5.56",
+        "Link": "ospf"
+      },
+      "geometry": {
+        "coordinates": [
+          15.282794538345286,
+          46.067884359287945
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          15.325524733630857,
+          45.763343959761215
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokacija": "Krim",
+        "sysop": "Zoki Z Ljublane",
+        "Hardware": "MikroPiki",
+        "IP": "43.43.54.43"
+      },
+      "geometry": {
+        "coordinates": [
+          14.470274395333405,
+          45.92825195590177
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokacija": "Trstelj",
+        "Sysops": "Trst je nas",
+        "Hardware": "Mikrotik SXT",
+        "IP": "342.43.434.34"
+      },
+      "geometry": {
+        "coordinates": [
+          13.669234993425533,
+          45.87065977736165
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lokacija":"Trdinov vrh",
+        "link": "5g",
+        "IP": "43.566.55.55"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            15.324863283363698,
+            45.768540995809246
+          ],
+          [
+            14.473283871416896,
+            45.919926363943375
+          ],
+          [
+            13.674770238850243,
+            45.87068333189288
+          ],
+          [
+            15.29201303898634,
+            46.067393482273985
+          ],
+          [
+            15.334971050865931,
+            45.770303658062716
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            15.302120806486954,
+            45.99546457463984
+          ],
+          [
+            14.94329506020685,
+            46.02530011609534
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
